@@ -7,7 +7,7 @@ Demo actions on google project using python client library aog.
 - From settings -> import and export Tab -> Restore From Zip and upload Python-Demo.zip
 - run main.py locally using ngrok and copy the https adrress to the webhook under fullfillment in dialogflow.
 
-## Instructions for ngroks
+## Instructions for ngrok
 - Download and install ngrok from [here](https://ngrok.com/download).
 - Run main.py ```python3 main.py```
 - Open a new terminal and run ngrok ```ngrok http 5000```
